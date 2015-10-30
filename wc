@@ -1,0 +1,15 @@
+The Wc Command - Word Count
+
+The wc command allows us to check a file for it's number of lines, words and characters. 
+
+There are switches within the wc command that allow you to search for each invidiual number (lines, words, or characters) by itself.
+
+For example:
+
+wc -l counts the number of lines
+wc -c counts the number of characters
+wc -w counts the number of words
+
+wc newFile
+
+would give us the number of lines, words and characters that are in newFile
