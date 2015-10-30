@@ -1,0 +1,10 @@
+The mv command - move files 
+
+the mv command allows you to move a file from one directory to another.
+It accpets two parameters with the first one being the file we want to move and the second being the location we want to move it to.
+For example: 
+
+mv oldfile ../desktop
+
+would move the oldfile from it's current directory to the desktop directory. 
+
